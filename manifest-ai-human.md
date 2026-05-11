@@ -217,7 +217,7 @@ Infrastruktura bez kompetencji jest narzędziem uzależnienia. Kompetencje bez i
 
 ## Autorzy i wkład
 
-Dokument powstał jako inicjatywa obywatelska. Sekcja 11 ("Prawo do błędu") napisana przy udziale systemu AI (Claude, Anthropic) — co uznajemy za pierwszą próbę praktycznego zastosowania zasad opisanych w tym manifeście: partnerstwo, nie autorstwo; transparentność, nie ukrywanie źródeł.
+Dokument powstał jako inicjatywa obywatelska. Sekcja 11 ("Prawo do błędu") napisana przy udziale systemu AI (Claude, Anthropic), (Gemini, Google), (ChatGPT, OpenAI) — co uznajemy za pierwszą próbę praktycznego zastosowania zasad opisanych w tym manifeście: partnerstwo, nie autorstwo; transparentność, nie ukrywanie źródeł.
 
 ---
 
