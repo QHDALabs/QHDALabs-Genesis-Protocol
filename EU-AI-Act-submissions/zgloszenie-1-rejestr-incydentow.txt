@@ -1,0 +1,46 @@
+ZGŁOSZENIE 1 Z 3
+Formularz AI Act Service Desk
+Kategoria: Other | Osoba prywatna | Luka regulacyjna
+
+
+TEMAT
+
+Luka regulacyjna: brak obowiązkowego publicznego rejestru incydentów systemów AI działających w sferze publicznej
+
+
+TREŚĆ ZGŁOSZENIA
+
+Szanowni Państwo,
+
+Składam niniejsze zgłoszenie jako obywatel Unii Europejskiej w celu zwrócenia uwagi na lukę regulacyjną w Rozporządzeniu (UE) 2024/1689 (AI Act) dotyczącą braku obowiązkowego, publicznie dostępnego mechanizmu rejestrowania incydentów związanych z systemami AI działającymi w sferze interesu publicznego.
+
+Zidentyfikowana luka:
+
+Artykuły 62–73 AI Act ustanawiają obowiązki sprawozdawcze dotyczące poważnych incydentów, skierowane przede wszystkim do dostawców i podmiotów wdrażających, wobec krajowych organów nadzorczych. Żaden przepis nie wymaga jednak:
+
+1. Publicznie dostępnego rejestru incydentów, w których decyzje systemów AI wywołały negatywne skutki dla praw lub interesów obywateli.
+2. Mechanizmu zgłoszeń inicjowanych przez obywatela, który nie wymaga wszczęcia formalnego postępowania prawnego.
+3. Obowiązkowej publikacji analizy przyczyn źródłowych i podjętych działań naprawczych po zarejestrowanych incydentach.
+
+Znaczenie luki:
+
+Bez publicznego rejestru incydentów cały system egzekwowania prawa funkcjonuje wyłącznie w kanałach instytucjonalnych niewidocznych dla dotkniętych obywateli. Obywatel, który otrzymuje niekorzystną decyzję wspomaganą przez AI w obszarze rekrutacji, oceny zdolności kredytowej lub dostępu do usług publicznych, nie ma praktycznej możliwości ustalenia, czy jego przypadek stanowi odosobniony błąd czy systemiczną awarię dotykającą innych.
+
+Luka ta sprawia, że artykuły 13 (Przejrzystość) i 14 (Nadzór ludzki) mają charakter postulatywny, a nie egzekwowalny w praktyce.
+
+Proponowane uzupełnienie regulacji:
+
+Nowy artykuł lub zmiana artykułu 62 ustanawiająca:
+
+- Scentralizowany publiczny rejestr incydentów AI na poziomie UE, prowadzony przez AI Office lub ENISA.
+- Obowiązek operatorów systemów AI wysokiego ryzyka do zgłaszania incydentów o negatywnych skutkach w ciągu 30 dni.
+- Prawo obywatela do złożenia zgłoszenia incydentu bez konieczności wszczynania postępowania prawnego.
+- Coroczny publiczny raport zbiorczy dla Parlamentu Europejskiego.
+
+Analogiczne mechanizmy istnieją w lotnictwie (ECCAIRS), farmaceutyce (EudraVigilance) i cyberbezpieczeństwie (ENISA Threat Landscape). AI Act powinien osiągnąć równoważny poziom przejrzystości.
+
+W załączniku przesyłam dokument uzupełniający (propozycja obywatelska).
+
+Z poważaniem,
+Krzysztof Banasiewicz
+Polska

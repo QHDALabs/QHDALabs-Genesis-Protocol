@@ -1,0 +1,45 @@
+ZGŁOSZENIE 3 Z 3
+Formularz AI Act Service Desk
+Kategoria: Other | Osoba prywatna | Luka regulacyjna
+
+
+TEMAT
+
+Luka regulacyjna: brak przepisów zapewniających równy dostęp obywateli UE do zaawansowanych systemów AI jako infrastruktury publicznej
+
+
+TREŚĆ ZGŁOSZENIA
+
+Szanowni Państwo,
+
+Składam niniejsze zgłoszenie jako obywatel Unii Europejskiej w celu wskazania luki strukturalnej w Rozporządzeniu (UE) 2024/1689 (AI Act) dotyczącej równego dostępu obywateli UE do zaawansowanych systemów AI.
+
+Zidentyfikowana luka:
+
+AI Act kompleksowo reguluje ograniczanie ryzyka, przejrzystość i oceny zgodności, lecz nie zawiera żadnego przepisu dotyczącego koncentracji dostępu do systemów AI klasy frontier i jej konsekwencji dla równości demokratycznej.
+
+Zaawansowane systemy AI, takie jak modele ogólnego przeznaczenia zdefiniowane w Rozdziale V, stają się coraz bardziej niezbędnymi narzędziami pełnego uczestnictwa w życiu zawodowym, obywatelskim i edukacyjnym. Dostęp do tych systemów jest obecnie określany wyłącznie przez komercyjne decyzje cenowe niewielkiej liczby dostawców spoza UE. Tworzy to strukturalną nierówność funkcjonalnie równoważną z różnicowym dostępem do edukacji lub reprezentacji prawnej.
+
+Milczenie AI Act w tej kwestii oznacza, że rozporządzenie kompleksowo reguluje ryzyka związane z AI, nie odpowiadając na jej najbardziej fundamentalne pytanie dystrybucyjne: kto ma do niej dostęp.
+
+Szczegółowa luka regulacyjna:
+
+Żaden artykuł obowiązującego AI Act nie wymaga od operatorów modeli ogólnego przeznaczenia oferowania publicznie dostępnego poziomu bazowego możliwości. Brak jest również europejskiej inicjatywy w zakresie publicznej infrastruktury obliczeniowej z określonymi prawami dostępu obywateli, standardów interoperacyjności umożliwiających alternatywy publiczne lub niekomercyjne wobec modeli klasy frontier, a także powiązania mandatu Wspólnego Przedsięwzięcia EuroHPC z obowiązkami dostępu do AI skierowanymi do obywateli.
+
+Proponowane uzupełnienie regulacji:
+
+Zmiana Rozdziału V lub nowy instrument towarzyszący ustanawiający:
+
+1. Europejski Fundusz Publicznej Infrastruktury AI, finansowany ze składek operatorów modeli ogólnego przeznaczenia z wyznaczonym ryzykiem systemowym na mocy artykułu 51, alokowany do Wspólnego Przedsięwzięcia EuroHPC.
+
+2. Gwarancję dostępu obywatela UE do AI: każdy obywatel UE ma dostęp co najmniej do jednego systemu AI klasy frontier poprzez infrastrukturę publiczną, bezpłatnie w punkcie korzystania.
+
+3. Mechanizm przeglądu co 3 lata zapewniający, że gwarancja dostępu odzwierciedla zmieniające się progi możliwości technologicznych.
+
+Precedens istnieje w prawie UE: obowiązki świadczenia usług powszechnych w telekomunikacji (Dyrektywa 2002/22/WE) i energetyce (Dyrektywa 2019/944) ustanawiają zasadę, że infrastruktura o znaczeniu cywilizacyjnym wiąże się z gwarancjami dostępu. AI osiągnęła ten próg.
+
+W załączniku przesyłam dokument uzupełniający (propozycja obywatelska).
+
+Z poważaniem,
+Krzysztof Banasiewicz
+Polska

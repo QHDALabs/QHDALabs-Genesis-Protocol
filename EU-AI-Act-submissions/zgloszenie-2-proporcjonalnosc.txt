@@ -1,0 +1,41 @@
+ZGŁOSZENIE 2 Z 3
+Formularz AI Act Service Desk
+Kategoria: High-risk AI systems | Osoba prywatna | Luka regulacyjna
+
+
+TEMAT
+
+Luka regulacyjna: brak stopniowanego mechanizmu proporcjonalności łączącego wagę skutków decyzji AI z wymaganiami przejrzystości i prawa do odwołania
+
+
+TREŚĆ ZGŁOSZENIA
+
+Szanowni Państwo,
+
+Składam niniejsze zgłoszenie jako obywatel Unii Europejskiej w celu wskazania luki regulacyjnej w mechanizmie proporcjonalności zawartym w Załączniku III i artykule 13 Rozporządzenia (UE) 2024/1689 (AI Act).
+
+Zidentyfikowana luka:
+
+AI Act ustanawia klasyfikację binarną: systemy są albo wysokiego ryzyka (Załącznik III), albo nie. Takie podejście tworzy dwa problemy:
+
+1. Niedostateczne objęcie regulacją: wiele systemów AI o istotnym wpływie na życie obywateli, takich jak moderowanie treści wpływające na reputację zawodową, algorytmy wyceny ubezpieczeń czy zautomatyzowane narzędzia preselekcji kandydatów do pracy poniżej progów Załącznika III, nie wchodzi w zakres kategorii wysokiego ryzyka i nie wiąże się z żadnymi znaczącymi obowiązkami w zakresie przejrzystości lub odwołania.
+
+2. Jednolite traktowanie nierównych skutków: w ramach kategorii wysokiego ryzyka system rekomendujący treści edukacyjne i system wspomagający orzecznictwo sądowe podlegają identycznym formalnym obowiązkom, mimo drastycznie różnych konsekwencji dla jednostki.
+
+Proponowane uzupełnienie regulacji:
+
+Zmiana Załącznika III i artykułu 13 wprowadzająca trójstopniową klasyfikację wpływu:
+
+Poziom podstawowy: decyzje AI o ograniczonych, odwracalnych skutkach. Wymóg: ujawnienie zasad działania algorytmu na żądanie.
+
+Poziom wysoki: decyzje dotyczące zatrudnienia, kredytu, ubezpieczenia, edukacji. Wymóg: prawo do wyjaśnienia oraz prawo odwołania do ludzkiego recenzenta.
+
+Poziom krytyczny: decyzje dotyczące wolności, zdrowia, azylu, postępowań sądowych. Wymóg: zakaz autonomicznej decyzji AI, obowiązkowy nadzór ludzki, rozszerzony audyt.
+
+Takie stopniowane podejście dostosowałoby AI Act do zasady proporcjonalności ustanowionej w prawie pierwotnym UE (art. 5 ust. 4 TUE) i wypełniłoby lukę regulacyjną dotyczącą obywateli, których sytuacja nie osiąga progów Załącznika III, ale przekracza każdy rozsądny próg istotnego wpływu.
+
+W załączniku przesyłam dokument uzupełniający (propozycja obywatelska).
+
+Z poważaniem,
+Krzysztof Banasiewicz
+Polska
