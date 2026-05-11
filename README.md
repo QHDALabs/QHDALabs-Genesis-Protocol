@@ -1,8 +1,10 @@
 # 🌌 QHDALabs Genesis Protocol
 
+[![Status: Active Prototyping](https://img.shields.io/badge/Status-Active_Prototyping-blue.svg)](#) [![AI Act: Submitted](https://img.shields.io/badge/AI_Act-Submitted_to_EC-green.svg)](https://digitcsm.service-now.com/csp?id=digit_sc_category&sys_id=c093f5423b6bea10cc404a2a85e45aba) [![Priority: 2 High](https://img.shields.io/badge/Priority-2_High-orange.svg)](#) [![Ethical Firmware: ROM Locked](https://img.shields.io/badge/Firmware-Hardware_ROM_Locked-red.svg)](#) [![Identity: World ID](https://img.shields.io/badge/Identity-World_ID-black.svg)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/LICENSE)
+
 **Status:** Aktywny prototyp  
 **Licencja:** MIT  
-**Powiązane dokumenty:** [Manifest Partnerstwa AI–Człowiek](./manifest-ai-human.md) · [Propozycja obywatelska do AI Act](./manifest-ai-human.md#podsumowanie--minimalne-żądania-legislacyjne)
+**Powiązane dokumenty:** [Manifest Partnerstwa AI–Człowiek](./manifest-ai-human.md) · [Propozycja obywatelska do AI Act](./EU-AI-Act-submissions/propozycja-obywatelska.txt) · [Status zgłoszeń](./EU-AI-Act-submissions/STATUS.md)
 
 ---
 
@@ -13,6 +15,23 @@ Genesis Protocol to otwarta platforma do crowdsourcingu konsensusu etycznego —
 Centralną ideą projektu jest pytanie: **co powinno być trwale niemożliwe dla systemu AI, niezależnie od tego kto go kontroluje i w jakim celu?**
 
 Odpowiedź na to pytanie nie może być dziełem jednej korporacji, jednego rządu ani jednego inżyniera. Musi wyłonić się z szerokiego, weryfikowalnego konsensusu ludzkiego — i zostać zapisana w sposób odporny na późniejszą zmianę.
+
+---
+
+## Inicjatywa obywatelska — AI Act
+
+W maju 2025 złożyliśmy trzy formalne zgłoszenia luk regulacyjnych do AI Act Service Desk Komisji Europejskiej (DIGIT CSM). Wszystkie dokumenty są publicznie dostępne w folderze [`EU-AI-Act-submissions/`](./EU-AI-Act-submissions/).
+
+| Zgłoszenie | Temat | Status |
+|-----------|-------|--------|
+| [Zgłoszenie 1](./EU-AI-Act-submissions/zgloszenie-1-rejestr-incydentow.txt) | Brak publicznego rejestru incydentów AI | ⏳ Oczekuje na odpowiedź |
+| [Zgłoszenie 2](./EU-AI-Act-submissions/zgloszenie-2-proporcjonalnosc.txt) | Brak zasady proporcjonalności wpływu decyzji AI | ⏳ Oczekuje na odpowiedź |
+| [Zgłoszenie 3](./EU-AI-Act-submissions/zgloszenie-3-dostep-publiczny.txt) | Brak gwarancji dostępu obywateli UE do AI | ⏳ Oczekuje na odpowiedź |
+| [Propozycja obywatelska](./EU-AI-Act-submissions/propozycja-obywatelska.txt) | Pełny dokument załączony do zgłoszeń | — |
+
+Priorytet nadany przez system KE: **2 — High**. Szczegóły w [STATUS.md](./EU-AI-Act-submissions/STATUS.md).
+
+Jeśli chcesz złożyć podobne zgłoszenie w swoim kraju — możesz użyć tych dokumentów jako szablonu.
 
 ---
 
@@ -46,11 +65,11 @@ Idea: jeśli granice etyczne istnieją tylko w oprogramowaniu, mogą zostać nad
 
 Genesis Protocol jest projektem technicznym realizującym w praktyce postulaty zawarte w [Manifeście Partnerstwa AI–Człowiek](./manifest-ai-human.md), złożonym jako propozycja obywatelska do Rozporządzenia (UE) 2024/1689 (AI Act).
 
-Projekt bezpośrednio adresuje luki regulacyjne zgłoszone do AI Act Service Desk Komisji Europejskiej:
+Projekt bezpośrednio adresuje luki regulacyjne zgłoszone do KE:
 
-- **Brak publicznego rejestru incydentów** (Zgłoszenie 1) — Genesis Portal tworzy precedens audytowalnego, publicznego rekordu decyzji etycznych.
-- **Brak zasady proporcjonalności** (Zgłoszenie 2) — parametry Q-HSM modelują dokładnie tę zasadę w sprzęcie: im poważniejszy skutek, tym twardsze ograniczenie.
-- **Brak gwarancji dostępu obywatelskiego** (Zgłoszenie 3) — platforma jest w pełni otwarta i bezpłatna, z kodem dostępnym na licencji MIT.
+- **Brak publicznego rejestru incydentów** — Genesis Portal tworzy precedens audytowalnego, publicznego rekordu decyzji etycznych.
+- **Brak zasady proporcjonalności** — parametry Q-HSM modelują dokładnie tę zasadę w sprzęcie: im poważniejszy skutek, tym twardsze ograniczenie.
+- **Brak gwarancji dostępu obywatelskiego** — platforma jest w pełni otwarta i bezpłatna, z kodem dostępnym na licencji MIT.
 
 ---
 
@@ -66,22 +85,27 @@ Projekt bezpośrednio adresuje luki regulacyjne zgłoszone do AI Act Service Des
 
 ## Roadmapa
 
-### Faza 1 — Fundamenty (zrealizowano)
+### Faza 1 — Fundamenty (zrealizowano ✅)
+
 - Inicjalizacja repozytorium i interfejsu terminalowego w React
 - Implementacja weryfikacji Proof of Personhood (World ID)
 - Zaprojektowanie pierwszego dylematu etycznego i integracja z Gemini API
+- Złożenie propozycji obywatelskiej do AI Act Service Desk KE
 
-### Faza 2 — The Coherence Portal (w trakcie)
+### Faza 2 — The Coherence Portal (w trakcie ⏳)
+
 - Backend oparty na rozproszonym rejestrze (ochrona integralności głosów)
 - Pełna integracja produkcyjna z IDKit
 - Algorytmy wykrywające paradoksy logiczne w masowych głosowaniach
 
 ### Faza 3 — Testy i symulacje
+
 - Publiczna wersja Beta
 - Stress-testy odporności na zorganizowane kampanie manipulacji
 - Publikacja wstępnych Wag Etycznych wyłonionych przez społeczność
 
 ### Faza 4 — Synteza
+
 - Zamrożenie głosowania i niezależny audyt wyników
 - Translacja konsensusu na kod układowy w Rust
 - Ceremonia zapisu ROM (eFuse Flash Day)
@@ -90,13 +114,13 @@ Projekt bezpośrednio adresuje luki regulacyjne zgłoszone do AI Act Service Des
 
 ## Jak możesz pomóc
 
-Projekt poszukuje:
-
 **Inżynierów Smart Contractów (Solidity / Rust)** do budowy niezmiennego systemu rejestracji głosów.
 
 **Filozofów, etyków i twórców science fiction** do rozwijania bazy dylematów dla rdzenia Gemini.
 
 **Ekspertów od architektury sprzętowej (FPGA / ASIC)** do konsultacji nad modułem X2.
+
+**Prawników i ekspertów od prawa UE** do rozwijania propozycji legislacyjnych i odpowiedzi na zgłoszenia KE.
 
 **Tłumaczy** — platforma dąży do pełnej wielojęzyczności UE.
 
@@ -108,13 +132,19 @@ Zacznij od lektury [Manifestu](./manifest-ai-human.md), potem otwórz Issue lub 
 
 ```
 /
-├── README.md                  — ten dokument
-├── manifest-ai-human.md       — Manifest Partnerstwa AI–Człowiek (propozycja do AI Act)
-├── App.jsx                    — główny komponent portalu React
-├── define.md                  — definicje parametrów i słownik projektu
-├── module_X2_firmware.rs      — koncepcja kodu rdzenia modułu sprzętowego (Rust)
-├── interface                  — specyfikacja interfejsu użytkownika
-└── LICENSE                    — MIT
+├── README.md                        — ten dokument
+├── manifest-ai-human.md             — Manifest Partnerstwa AI–Człowiek
+├── EU-AI-Act-submissions/           — zgłoszenia do KE + status
+│   ├── STATUS.md
+│   ├── propozycja-obywatelska.txt
+│   ├── zgloszenie-1-rejestr-incydentow.txt
+│   ├── zgloszenie-2-proporcjonalnosc.txt
+│   └── zgloszenie-3-dostep-publiczny.txt
+├── App.jsx                          — główny komponent portalu React
+├── define.md                        — definicje parametrów i słownik projektu
+├── module_X2_firmware.rs            — koncepcja kodu modułu sprzętowego (Rust)
+├── interface                        — specyfikacja interfejsu użytkownika
+└── LICENSE                          — MIT
 ```
 
 ---
