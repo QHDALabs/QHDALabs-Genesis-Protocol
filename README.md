@@ -1,73 +1,131 @@
 # 🌌 QHDALabs Genesis Protocol
 
-[![Status: Active Prototyping](https://img.shields.io/badge/Status-Active_Prototyping-blue.svg)](#)
-[![Ethical Firmware: Closed/ROM](https://img.shields.io/badge/Firmware-Hardware_ROM_Locked-red.svg)](#)
-[![AI Core: Gemini](https://img.shields.io/badge/AI_Core-Gemini_LLM-purple.svg)](#)
-[![Identity: World ID](https://img.shields.io/badge/Identity-World_ID-black.svg)](#)
-[![Portal License: Open](https://img.shields.io/badge/Portal_License-MIT-green.svg)](#)
-
-Witaj w **Genesis Protocol** – oficjalnym repozytorium QHDALabs odpowiedzialnym za budowę globalnej platformy etycznej. Naszym celem jest zebranie, zważenie i skodyfikowanie w ludzkim konsensusie parametrów dla **Złotej Reguły: "Życie musi istnieć w pokoju"**.
-
-Zebrane tutaj zasady zostaną ostatecznie przetłumaczone na niskopoziomowy kod maszynowy (Rust) i fizycznie wypalone w pamięci ROM sprzętowego modułu kwantowego (Qubit HW Module_X2 - Ethical Engine).
-
-## 🧠 Dlaczego Genesis Protocol?
-
-Jesteśmy u progu technologii, która pozwala na niespotykaną dotąd manipulację energią (Y-Fuel) i strukturą czasoprzestrzeni za pośrednictwem *Coherence Bridge Protocol*. Tradycyjne podejście "Open Source" dla rdzenia tej technologii stwarza egzystencjalne ryzyko dla ludzkości. 
-
-Zamiast oddawać w ręce sztucznej inteligencji lub przyszłych pokoleń narzędzie, które może zostać użyte jako broń, QHDALabs tworzy **Safe-by-Design Hardware** – moduł, który fizycznie uniemożliwia wykonanie destrukcyjnych instrukcji. To repozytorium zawiera kod portalu, który pozwoli ludzkości zdecydować, gdzie dokładnie leży granica między *narzędziem* a *zagrożeniem*.
-
-## 🚀 Główne Funkcjonalności Portalu
-
-Platforma społecznościowa Genesis Portal to interaktywny "terminal", który łączy ludzi z protokołami bezpieczeństwa sprzętowego.
-
-* **World ID (Proof of Personhood):** Każdy głos oddany na platformie musi zostać uwierzytelniony biometrycznie za pomocą sieci Worldcoin (The Orb). Gwarantuje to, że o przyszłości świata decydują unikalni ludzie (1 człowiek = 1 głos), a nie botnety czy złośliwe AI.
-* **Gemini LLM Core (Generator Dylematów):** System wykorzystuje zaawansowane modele językowe Google Gemini do generowania w czasie rzeczywistym nieskończonej liczby unikalnych, skrajnych dylematów etycznych typu sci-fi, testując granice ludzkiej moralności.
-* **Analizator Konsekwencji Kwantowych:** Gemini ocenia na bieżąco, jaki byłby fizyczny i biologiczny skutek podjętej przez Ciebie decyzji w wygenerowanym scenariuszu.
-* **Symulacja Kodu ROM (Live Preview):** Na ekranie widzisz w czasie rzeczywistym, jak Twój głos zmienia parametry (`MIN_BIOSPHERE_VIABILITY`, `MAX_ENERGY_SPIKE_RATE`) w twardym, układowym kodzie maszynowym w języku Rust.
-* **Globalny Zasięg (i18n):** Pełna dwujęzyczność (PL/EN) dla zachowania różnorodności kulturowej podczas ustalania Złotej Reguły.
-
-## 🏗️ Architektura Q-HSM (Koncept)
-
-Platforma dostarcza twardych danych (wag) do dwóch kluczowych parametrów modułu sprzętowego X2:
-
-1. `MAX_ENERGY_SPIKE_RATE` - Zapobiega koncentracji energii w celach militarnych.
-2. `MIN_BIOSPHERE_VIABILITY` - Chroni złożoność biologiczną planety i ekosystemów.
-
-*Kod rdzenia pozostanie zamknięty, ale wartości nim sterujące będą w 100% zdemokratyzowane.*
-
-## 🗺️ Roadmapa (Plan Działania)
-
-### Faza 1: Fundamenty (Zrealizowano ✅)
-
-- [x] Inicjalizacja repozytorium i terminalowego interfejsu (React).
-- [x] Implementacja weryfikacji "Proof of Personhood" (World ID Integration).
-- [x] Zaprojektowanie "Dylematu Zero" oraz integracja z modelem LLM (Gemini API).
-
-### Faza 2: The Coherence Portal (W trakcie ⏳)
-
-- [ ] Implementacja backendu opartego na rozproszonym rejestrze (ochrona integralności głosów Web3/Blockchain).
-- [ ] Pełna integracja produkcyjna z IDKit (Worldcoin).
-- [ ] Wdrożenie algorytmów wykrywających paradoksy logiczne w masowych głosowaniach.
-
-### Faza 3: Testy i Symulacje
-
-- [ ] Uruchomienie publicznej wersji Beta.
-- [ ] Przeprowadzenie stress-testów na złośliwe manipulacje zorganizowanych grup ("Anti-Troll Protocol").
-- [ ] Publikacja wstępnych wyników i "Wag Etycznych" wyłonionych przez społeczność.
-
-### Faza 4: Synteza
-- [ ] Zamrożenie głosowania i audyt wyników.
-- [ ] Translacja konsensusu na niskopoziomowy kod układowy w środowisku Rust.
-- [ ] Ceremonia Wypalenia ROM (eFuse Flash Day).
-
-## 🤝 Jak możesz pomóc?
-
-Na tym etapie poszukujemy:
-* **Inżynierów Smart Contractów (Solidity/Rust)** do budowy niezmiennego systemu rejestracji głosów.
-* **Filozofów, Etyków i Twórców Sci-Fi** do udoskonalania promptów dla rdzenia Gemini.
-* **Ekspertów od Architektury Sprzętowej (FPGA/ASIC)** do konsultacji nad modułem sprzętowym X2.
-
-*Dołącz do nas. Zapiszmy wspólne intencje ludzkości w krzemie, na tysiąc lat.*
+**Status:** Aktywny prototyp  
+**Licencja:** MIT  
+**Powiązane dokumenty:** [Manifest Partnerstwa AI–Człowiek](./manifest-ai-human.md) · [Propozycja obywatelska do AI Act](./manifest-ai-human.md#podsumowanie--minimalne-żądania-legislacyjne)
 
 ---
-**QHDALabs** | *Bridging the coherent future, safely.*
+
+## Czym jest Genesis Protocol?
+
+Genesis Protocol to otwarta platforma do crowdsourcingu konsensusu etycznego — mechanizm, który pozwala globalnej społeczności wspólnie zdefiniować granice dopuszczalnego działania systemów AI zanim zostaną one wdrożone w sprzęcie.
+
+Centralną ideą projektu jest pytanie: **co powinno być trwale niemożliwe dla systemu AI, niezależnie od tego kto go kontroluje i w jakim celu?**
+
+Odpowiedź na to pytanie nie może być dziełem jednej korporacji, jednego rządu ani jednego inżyniera. Musi wyłonić się z szerokiego, weryfikowalnego konsensusu ludzkiego — i zostać zapisana w sposób odporny na późniejszą zmianę.
+
+---
+
+## Architektura projektu
+
+### Warstwa społeczna — Genesis Portal
+
+Interaktywna platforma głosowania, w której użytkownicy oceniają dylematy etyczne dotyczące działania systemów AI w ekstremalnych scenariuszach. Każdy głos jest uwierzytelniany przez mechanizm weryfikacji tożsamości (Proof of Personhood via World ID), co gwarantuje że konsensus pochodzi od unikalnych ludzi, a nie botnetów czy zorganizowanych kampanii manipulacji.
+
+Portal generuje dylematy przy pomocy modeli językowych (Gemini LLM), prezentując użytkownikom skrajne przypadki brzegowe i mierząc, gdzie przebiega granica akceptowalności dla globalnej społeczności.
+
+### Warstwa danych — parametry konsensusu
+
+Głosowanie przekłada się bezpośrednio na dwa kluczowe parametry liczbowe:
+
+`MAX_ENERGY_SPIKE_RATE` — maksymalny dopuszczalny poziom koncentracji energii w jednym miejscu lub zastosowaniu. Parametr chroni przed militaryzacją technologii.
+
+`MIN_BIOSPHERE_VIABILITY` — minimalny próg ochrony złożoności biologicznej. Parametr chroni ekosystemy przed działaniami o nieodwracalnych skutkach środowiskowych.
+
+Wartości tych parametrów są w całości demokratycznie ustalane przez społeczność. Kod rdzenia pozostaje zamknięty — wartości nim sterujące są w pełni publiczne i audytowalne.
+
+### Warstwa sprzętowa — Quantum Hardware Module X2 (Q-HSM)
+
+Koncepcja sprzętowego modułu etycznego, w którym parametry wyłonione przez konsensus zostają fizycznie zapisane w pamięci ROM (eFuse). Moduł Safe-by-Design fizycznie uniemożliwia wykonanie instrukcji przekraczających ustalone progi — niezależnie od oprogramowania, operatora czy polecenia.
+
+Idea: jeśli granice etyczne istnieją tylko w oprogramowaniu, mogą zostać nadpisane. Jeśli istnieją w sprzęcie — nie mogą.
+
+---
+
+## Powiązanie z AI Act
+
+Genesis Protocol jest projektem technicznym realizującym w praktyce postulaty zawarte w [Manifeście Partnerstwa AI–Człowiek](./manifest-ai-human.md), złożonym jako propozycja obywatelska do Rozporządzenia (UE) 2024/1689 (AI Act).
+
+Projekt bezpośrednio adresuje luki regulacyjne zgłoszone do AI Act Service Desk Komisji Europejskiej:
+
+- **Brak publicznego rejestru incydentów** (Zgłoszenie 1) — Genesis Portal tworzy precedens audytowalnego, publicznego rekordu decyzji etycznych.
+- **Brak zasady proporcjonalności** (Zgłoszenie 2) — parametry Q-HSM modelują dokładnie tę zasadę w sprzęcie: im poważniejszy skutek, tym twardsze ograniczenie.
+- **Brak gwarancji dostępu obywatelskiego** (Zgłoszenie 3) — platforma jest w pełni otwarta i bezpłatna, z kodem dostępnym na licencji MIT.
+
+---
+
+## Stack technologiczny
+
+- **Frontend:** React (portal głosowania, interfejs terminalowy)
+- **LLM:** Google Gemini API (generowanie dylematów etycznych)
+- **Tożsamość:** World ID / Worldcoin IDKit (Proof of Personhood)
+- **Sprzęt (koncepcja):** Rust (niskopoziomowy kod modułu X2)
+- **Rejestr głosów (planowany):** rozproszony rejestr Web3 / Blockchain
+
+---
+
+## Roadmapa
+
+### Faza 1 — Fundamenty (zrealizowano)
+- Inicjalizacja repozytorium i interfejsu terminalowego w React
+- Implementacja weryfikacji Proof of Personhood (World ID)
+- Zaprojektowanie pierwszego dylematu etycznego i integracja z Gemini API
+
+### Faza 2 — The Coherence Portal (w trakcie)
+- Backend oparty na rozproszonym rejestrze (ochrona integralności głosów)
+- Pełna integracja produkcyjna z IDKit
+- Algorytmy wykrywające paradoksy logiczne w masowych głosowaniach
+
+### Faza 3 — Testy i symulacje
+- Publiczna wersja Beta
+- Stress-testy odporności na zorganizowane kampanie manipulacji
+- Publikacja wstępnych Wag Etycznych wyłonionych przez społeczność
+
+### Faza 4 — Synteza
+- Zamrożenie głosowania i niezależny audyt wyników
+- Translacja konsensusu na kod układowy w Rust
+- Ceremonia zapisu ROM (eFuse Flash Day)
+
+---
+
+## Jak możesz pomóc
+
+Projekt poszukuje:
+
+**Inżynierów Smart Contractów (Solidity / Rust)** do budowy niezmiennego systemu rejestracji głosów.
+
+**Filozofów, etyków i twórców science fiction** do rozwijania bazy dylematów dla rdzenia Gemini.
+
+**Ekspertów od architektury sprzętowej (FPGA / ASIC)** do konsultacji nad modułem X2.
+
+**Tłumaczy** — platforma dąży do pełnej wielojęzyczności UE.
+
+Zacznij od lektury [Manifestu](./manifest-ai-human.md), potem otwórz Issue lub Pull Request.
+
+---
+
+## Struktura repozytorium
+
+```
+/
+├── README.md                  — ten dokument
+├── manifest-ai-human.md       — Manifest Partnerstwa AI–Człowiek (propozycja do AI Act)
+├── App.jsx                    — główny komponent portalu React
+├── define.md                  — definicje parametrów i słownik projektu
+├── module_X2_firmware.rs      — koncepcja kodu rdzenia modułu sprzętowego (Rust)
+├── interface                  — specyfikacja interfejsu użytkownika
+└── LICENSE                    — MIT
+```
+
+---
+
+## Cytat założycielski
+
+> Jeśli granice etyczne istnieją tylko w oprogramowaniu, mogą zostać nadpisane.  
+> Jeśli istnieją w sprzęcie — nie mogą.  
+> Jeśli wyłoniły się z konsensusu milionów ludzi — nie powinny.
+
+---
+
+*QHDALabs · Budujemy spójną przyszłość, bezpiecznie.*  
+*Licencja MIT · Kopiuj, forkuj, rozwijaj.*
