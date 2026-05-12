@@ -2,7 +2,7 @@
 ## Declaration of Principles and Citizen Proposal to the EU AI Act
 
 **Version:** 1.1.0  
-**Date:** 2025  
+**Date:** 2026
 **License:** CC BY 4.0  
 **Status:** Living document — pull requests welcome  
 **Contact:** [github.com/QHDALabs/](https://github.com/QHDALabs/)

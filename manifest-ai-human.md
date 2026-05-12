@@ -2,7 +2,7 @@
 ## Deklaracja Zasad i Propozycja Obywatelska do AI Act
 
 **Wersja:** 1.1.0  
-**Data:** 2025  
+**Data:** 2026
 **Licencja:** CC BY 4.0  
 **Status:** Dokument otwarty — pull requests mile widziane  
 **Kontakt:** [github.com/QHDALabs/]
