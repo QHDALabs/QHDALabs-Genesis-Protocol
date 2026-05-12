@@ -1,6 +1,18 @@
 # 🌌 QHDALabs — Genesis Protocol
 
-**Status:** Active Prototyping · **AI Act:** Submitted · **Priority:** 2 High · **Ethical Firmware:** ROM Locked · **Identity:** World ID · **License:** MIT
+<!-- TECHNOLOGIE -->
+[![React](https://img.shields.io/badge/Portal-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol)
+[![Rust](https://img.shields.io/badge/Firmware-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/module_X2_firmware.rs)
+[![Gemini API](https://img.shields.io/badge/AI_Core-Gemini_API-8E44AD?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
+[![World ID](https://img.shields.io/badge/Identity-World_ID-000000?style=flat-square&logo=worldcoin&logoColor=white)](https://worldcoin.org/world-id)
+[![Web3](https://img.shields.io/badge/Ledger-Web3_Blockchain-F6851B?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol)
+
+<!-- WARTOŚCI / KONTEKST -->
+[![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Citizens_Proposal-003399?style=flat-square&logo=europeanunion&logoColor=FFD700)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/manifest-ai-human.md)
+[![Art. 11 TEU](https://img.shields.io/badge/Art._11_TEU-Citizens_Initiative-003399?style=flat-square&logo=europeanunion&logoColor=FFD700)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/manifest-ai-human.md)
+[![Human Rights](https://img.shields.io/badge/Human_Rights-By_Design-1565C0?style=flat-square&logo=unitednations&logoColor=white)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/manifest-ai-human.md)
+[![Open Document](https://img.shields.io/badge/Manifest-Open_Document-1976D2?style=flat-square&logo=markdown&logoColor=white)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/manifest-ai-human.md)
+[![License CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-1976D2?style=flat-square&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
 
 > 🇵🇱 **Polish version:** [README.md](./README.md)
 
