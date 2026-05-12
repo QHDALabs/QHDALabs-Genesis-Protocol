@@ -5,7 +5,6 @@
 > Interfejs Kalibracji Reguł Etycznych [Q-HSM ROM]  
 > Ethical Rules Calibration Interface — powered by Google Gemini AI
 
-**Status:** Aktywny prototyp &nbsp;·&nbsp; **AI Act:** Submitted &nbsp;·&nbsp; **Priority:** 2 High &nbsp;·&nbsp; **Ethical Firmware:** ROM Locked &nbsp;·&nbsp; **Identity:** World ID &nbsp;·&nbsp; **Licencja:** MIT
 
 ---
 
