@@ -1,5 +1,7 @@
 # 🌌 QHDALabs — Genesis Protocol
 
+[![Status: Active Prototyping](https://img.shields.io/badge/Status-Active_Prototyping-blue.svg)](#) [![AI Act: Submitted](https://img.shields.io/badge/AI_Act-Submitted_to_EC-green.svg)](https://digitcsm.service-now.com/csp?id=digit_sc_category&sys_id=c093f5423b6bea10cc404a2a85e45aba) [![Priority: 2 High](https://img.shields.io/badge/Priority-2_High-orange.svg)](#) [![Ethical Firmware: ROM Locked](https://img.shields.io/badge/Firmware-Hardware_ROM_Locked-red.svg)](#) [![Identity: World ID](https://img.shields.io/badge/Identity-World_ID-black.svg)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/LICENSE)
+
 > Interfejs Kalibracji Reguł Etycznych [Q-HSM ROM]  
 > Ethical Rules Calibration Interface — powered by Google Gemini AI
 
