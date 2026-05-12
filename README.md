@@ -29,7 +29,7 @@ Odpowiedź na to pytanie nie może być dziełem jednej korporacji, jednego rzą
 <details>
 <summary><strong>📖 Karen Hao, „Empire of AI" — wywiad, który zmienia perspektywę</strong></summary>
 
-W maju 2025 ukazała się książka **Karen Hao** — dziennikarki śledczej i pierwszej osoby, która sprofilowała OpenAI dla MIT Technology Review — zatytułowana *Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI*. Natychmiast stała się bestsellerem New York Timesa i zdobyła National Book Critics Circle Award.
+W maju 2026 ukazała się książka **Karen Hao** — dziennikarki śledczej i pierwszej osoby, która sprofilowała OpenAI dla MIT Technology Review — zatytułowana *Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI*. Natychmiast stała się bestsellerem New York Timesa i zdobyła National Book Critics Circle Award.
 
 Wywiad z Karen Hao (kanał [@mk_thisisit](https://www.youtube.com/watch?v=iOtJAOV82IM)) jest jednym z najważniejszych głosów w debacie o AI ostatnich lat. Hao ujawnia:
 
@@ -72,7 +72,7 @@ Koncepcja sprzętowego modułu etycznego, w którym parametry wyłonione przez k
 
 ## Inicjatywa obywatelska — AI Act
 
-W maju 2025 złożyliśmy trzy formalne zgłoszenia luk regulacyjnych do AI Act Service Desk Komisji Europejskiej (DIGIT CSM). Wszystkie dokumenty są publicznie dostępne w folderze `EU-AI-Act-submissions/`.
+W maju 2026 złożyliśmy trzy formalne zgłoszenia luk regulacyjnych do AI Act Service Desk Komisji Europejskiej (DIGIT CSM). Wszystkie dokumenty są publicznie dostępne w folderze `EU-AI-Act-submissions/`.
 
 | Zgłoszenie | Temat | Status |
 |-----------|-------|--------|
