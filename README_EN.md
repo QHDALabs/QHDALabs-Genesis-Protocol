@@ -30,7 +30,7 @@ The answer to that question cannot be the work of a single corporation, a single
 <details>
 <summary><strong>📖 Karen Hao, "Empire of AI" — the book that changes the conversation</strong></summary>
 
-In May 2026, **Karen Hao** — investigative journalist and the first person ever to profile OpenAI for MIT Technology Review — published *Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI*. It immediately became a New York Times bestseller and won the National Book Critics Circle Award for Nonfiction.
+In May 2025, **Karen Hao** — investigative journalist and the first person ever to profile OpenAI for MIT Technology Review — published *Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI*. It immediately became a New York Times bestseller and won the National Book Critics Circle Award for Nonfiction.
 
 Hao's book and her interview (YouTube channel [@mk_thisisit](https://www.youtube.com/watch?v=iOtJAOV82IM)) represent one of the most important contributions to the AI debate in recent years. Hao reveals:
 
