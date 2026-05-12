@@ -94,7 +94,7 @@ Genesis Protocol bezpośrednio adresuje te luki:
 
 | Dokument | Język | Link |
 |----------|-------|------|
-| Manifest Partnerstwa AI–Człowiek | 🇵🇱 Polski | [manifest-ai-human-PL.md](./manifest-ai-human-PL.md) |
+| Manifest Partnerstwa AI–Człowiek | 🇵🇱 Polski | [manifest-ai-human-PL.md](https://github.com/QHDALabs/QHDALabs-Genesis-Protocol/blob/main/EU-AI-Act-submissions/manifest-ai-human-PL.md) |
 | AI–Human Partnership Manifesto | 🇬🇧 English | [manifest-ai-human-EN.md](./manifest-ai-human-EN.md) |
 | Wersja główna (linki zewnętrzne) | 🇵🇱 Polski | [manifest-ai-human.md](./EU-AI-Act-submissions/manifest-ai-human.md) |
 
